@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Abhishek Kumar Sharma](https://github.com/aksharma27)
+- Place: Jamtara, Jharkhand, India
+- Bio: Web developer in MERN stack
+- Github: [aksharma27](https://github.com/aksharma27)
